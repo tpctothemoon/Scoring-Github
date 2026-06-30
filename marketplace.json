@@ -1,0 +1,13 @@
+{
+  "name": "github-roast-tpc",
+  "owner": {
+    "name": "The Product Crew"
+  },
+  "plugins": [
+    {
+      "name": "github-roast-tpc",
+      "source": "./",
+      "description": "Objective-driven GitHub profile audit: README eval, AI-marker detection, recruiter signals, keyword and SEO advice. Born from the TPC GitHub Roast live."
+    }
+  ]
+}
