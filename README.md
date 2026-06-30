@@ -1,8 +1,8 @@
 # github-roast-tpc
 
-A Claude Code plugin that audits a GitHub profile through its author's intent. It reviews READMEs, flags AI-generated markers, reads recruiter signals, and suggests keywords for findability. Born from [The Product Crew (TPC) GitHub Roast live, ep. 2](https://www.youtube.com/watch?v=gfDBEUImB-A).
+A Claude Code plugin that audits a GitHub profile through its author's intent. It reviews READMEs, flags AI-generated markers, reads recruiter signals, and suggests keywords for findability. Born from [TPC GitHub with AI : live](https://www.youtube.com/watch?v=gfDBEUImB-A).
 
-> Based on the original plugin by [Florian Bruniaux](https://github.com/FlorianBruniaux/github-roast-tpc). This is an autonomous TPC version that evolves on its own. Thanks to Florian for the foundational work.
+> Based on the original plugin by [Florian Bruniaux](https://github.com/FlorianBruniaux/github-roast-tpc). Thanks to Florian.
 
 ## Philosophy
 
@@ -21,7 +21,7 @@ Technical principle: orchestrate, do not rewrite. Existing building blocks (orga
 | 4a | suggest-keywords (findability, SEO, cross-linking) | done |
 | 4b | analyze-linkedin-profile (multimodal input) | done |
 | 5 | route-next-steps (TPC offers / Reddit post draft) | done |
-| 6 | community packaging | upcoming |
+| 6 | community packaging | done |
 
 ## Components
 
