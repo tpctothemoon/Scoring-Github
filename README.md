@@ -1,4 +1,4 @@
-# github-roast-tpc
+# scoring-github-tpc
 
 A Claude Code plugin that audits a GitHub profile through its author's intent. It reviews READMEs, flags AI-generated markers, reads recruiter signals, and suggests keywords for findability. Born from [TPC GitHub with AI : live](https://www.youtube.com/watch?v=gfDBEUImB-A).
 
